@@ -1,24 +1,25 @@
 
-*(
+*{
 
-)
+}
 
 body{
     background-color: aquamarine;
     font-size: 16px;
     color: black;
-    font-family: sans-selif;
+    font-family: sans-serif;
 }
 
 
-header(
+header{
     background-color: blue;
-    
-)
+
+}
 
 header h1{
     text-align: center;
 }
+
 img{
     width: 50%;
     border-radius: 8px;
