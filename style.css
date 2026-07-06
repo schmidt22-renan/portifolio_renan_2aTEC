@@ -4,8 +4,9 @@
 )
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(229, 248, 241);
     font-size: 16px;
+
 }
 
 header(
@@ -13,3 +14,10 @@ header(
     height: 4em;
 
 )
+
+header h1{
+    text-align: center;
+}
+img{
+    width: 50%;
+}
