@@ -4,27 +4,28 @@
 }
 
 body{
-    background-color: rgb(15, 89, 112);
-    font-size: 16px;
-    color: black;
-    font-family: sans-serif;
+background-color: rgb(6, 12, 10);
+font-size: 16px;
+color: black;
+font-family: sans-serif;
 }
 
-
 header{
-    background-color: rgb(33, 132, 102);
-
+background-color: rgb(25, 62, 48);
+color: rgb(0, 255, 162) ;
+height: 6em;
 }
 
 header h1{
-    text-align: center;
+text-align: center;
 }
 
 img{
-    width: 50%;
-    border-radius: 8px;
+width: 50%;
+border-radius: 18px;
 }
 
 main{
-    background-color: rgb(32, 104, 153);
+background-color: rgba(11, 80, 53, 0.567);
+color: rgb(78, 173, 173);
 }
